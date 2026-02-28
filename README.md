@@ -19,9 +19,14 @@ An advanced AI agent workspace tailored for crypto research, DeFi monitoring, an
 * OpenClaw CLI & Bankr CLI
 
 ### Environment Variables
+
 Configure your `~/.bashrc` with the following secrets:
+
 ```bash
 export TELEGRAM_BOT_TOKEN="your_token"
+
 export TELEGRAM_CHAT_ID="your_chat_id"
+
 export ALCHEMY_API_KEY="your_key"
+
 export BOTCHAN_PRIVATE_KEY="your_private_key"
