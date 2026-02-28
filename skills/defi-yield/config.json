@@ -1,0 +1,7 @@
+{
+  "min_apy": 20,
+  "min_tvl_usd": 1000000,
+  "chains": ["Base", "Ethereum", "Solana", "Polygon"],
+  "top_n": 5,
+  "exclude_protocols": []
+}

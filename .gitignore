@@ -1,0 +1,28 @@
+# Sensitive - jangan pernah commit
+SOUL.md
+USER.md
+MEMORY.md
+IDENTITY.md
+HEARTBEAT.md
+BOOTSTRAP.md
+AGENTS.md
+TOOLS.md
+memory/
+
+# OpenClaw internal
+.openclaw/
+.git/
+
+# Environment & secrets
+.env
+.env.*
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
